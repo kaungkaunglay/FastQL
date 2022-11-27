@@ -1,5 +1,6 @@
 # FastQL
 FastQL is wrapper class that allow the developer to create quick and easier way to build and deploy with PHP
+![Purple Data Cleansing Instagram Post](https://user-images.githubusercontent.com/102147034/204119027-bc647e76-6bb2-49d9-9d2e-053911d46b74.png)
 
 <h1>Usage</h1>
 
